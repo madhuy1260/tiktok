@@ -1,0 +1,8 @@
+used: firebase instance  for frontend Deploy only : hosting
+       material ui , flexbox, 3rd party ticker, scroll snap
+		nodejs, expressjs, mongodb, Heroku, mongoose to connect with mongodb
+	firebase to deploy frontend:
+       firebase init
+
+frontend:
+backend:https://tiktok-mernstack1260.herokuapp.com/v2/getposts
